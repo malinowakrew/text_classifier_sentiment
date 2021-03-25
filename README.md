@@ -1,4 +1,4 @@
-# Sentiment classofier
+# Sentiment classifier
 Project is realized as part of the subject Introduction to Artificial Inteligence.
 
 Students' description in polish.
